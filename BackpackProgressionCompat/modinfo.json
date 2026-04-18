@@ -1,0 +1,17 @@
+{
+  "type": "content",
+  "modid": "backpackprogressioncompat",
+  "name": "Backpack Progression Compat",
+  "description": "Lines up the backpack sizes from Backpack Pack Plus FG and Aldi's Classes into one clean tech-tier progression, and adds bigger upgrades for the grass pouch and the bronze/iron/steel backpacks.",
+  "version": "1.0.0",
+  "authors": [
+    "Alderyt"
+  ],
+  "side": "Universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true,
+  "dependencies": {
+    "backpackpackplusfg": "",
+    "aldiclasses": ""
+  }
+}

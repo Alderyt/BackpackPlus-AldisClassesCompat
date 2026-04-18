@@ -1,0 +1,117 @@
+[
+  {
+    "ingredientPattern": "GFC",
+    "requiresTrait": "backpacker",
+    "width": 3,
+    "height": 1,
+    "ingredients": {
+      "G": { "type": "item", "code": "backpackpackplus:grassbasket" },
+      "F": { "type": "item", "code": "game:flaxtwine" },
+      "C": { "type": "item", "code": "game:cattailtops", "quantity": 2 }
+    },
+    "output": { "type": "item", "code": "biggergrassbasket" }
+  },
+  {
+    "ingredientPattern": "BK",
+    "width": 2,
+    "height": 1,
+    "ingredients": {
+      "B": { "type": "item", "code": "backpackprogressioncompat:biggergrassbasket" },
+      "K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 1 }
+    },
+    "output": { "type": "item", "code": "backpackpackplus:grassbasket" }
+  },
+
+  {
+    "ingredientPattern": "BPL",
+    "requiresTrait": "backpacker",
+    "width": 3,
+    "height": 1,
+    "ingredients": {
+      "B": { "type": "item", "code": "backpackpackplus:backpackbronze" },
+      "P": { "type": "item", "code": "game:metalplate-tinbronze" },
+      "L": { "type": "item", "code": "game:leather-sturdy-plain" }
+    },
+    "output": { "type": "item", "code": "biggerbackpackbronze" }
+  },
+  {
+    "ingredientPattern": "BPL",
+    "requiresTrait": "backpacker",
+    "width": 3,
+    "height": 1,
+    "ingredients": {
+      "B": { "type": "item", "code": "backpackpackplus:backpackbronze" },
+      "P": { "type": "item", "code": "game:metalplate-blackbronze" },
+      "L": { "type": "item", "code": "game:leather-sturdy-plain" }
+    },
+    "output": { "type": "item", "code": "biggerbackpackbronze" }
+  },
+  {
+    "ingredientPattern": "BPL",
+    "requiresTrait": "backpacker",
+    "width": 3,
+    "height": 1,
+    "ingredients": {
+      "B": { "type": "item", "code": "backpackpackplus:backpackbronze" },
+      "P": { "type": "item", "code": "game:metalplate-bismuthbronze" },
+      "L": { "type": "item", "code": "game:leather-sturdy-plain" }
+    },
+    "output": { "type": "item", "code": "biggerbackpackbronze" }
+  },
+  {
+    "ingredientPattern": "BK",
+    "width": 2,
+    "height": 1,
+    "ingredients": {
+      "B": { "type": "item", "code": "backpackprogressioncompat:biggerbackpackbronze" },
+      "K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 1 }
+    },
+    "output": { "type": "item", "code": "backpackpackplus:backpackbronze" }
+  },
+
+  {
+    "ingredientPattern": "BPL",
+    "requiresTrait": "backpacker",
+    "width": 3,
+    "height": 1,
+    "ingredients": {
+      "B": { "type": "item", "code": "backpackpackplus:backpackiron" },
+      "P": { "type": "item", "code": "game:metalplate-iron" },
+      "L": { "type": "item", "code": "game:leather-sturdy-plain" }
+    },
+    "output": { "type": "item", "code": "biggerbackpackiron" }
+  },
+  {
+    "ingredientPattern": "BK",
+    "width": 2,
+    "height": 1,
+    "ingredients": {
+      "B": { "type": "item", "code": "backpackprogressioncompat:biggerbackpackiron" },
+      "K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 1 }
+    },
+    "output": { "type": "item", "code": "backpackpackplus:backpackiron" }
+  },
+
+  {
+    "ingredientPattern": "BPL",
+    "requiresTrait": "backpacker",
+    "width": 3,
+    "height": 1,
+    "ingredients": {
+      "B": { "type": "item", "code": "backpackpackplus:backpacksteel" },
+      "P": { "type": "item", "code": "game:metalplate-steel" },
+      "L": { "type": "item", "code": "game:leather-sturdy-plain" }
+    },
+    "output": { "type": "item", "code": "biggerbackpacksteel" }
+  },
+  {
+    "ingredientPattern": "BK",
+    "width": 2,
+    "height": 1,
+    "ingredients": {
+      "B": { "type": "item", "code": "backpackprogressioncompat:biggerbackpacksteel" },
+      "K": { "type": "item", "code": "game:knife-*", "isTool": true, "toolDurabilityCost": 1 }
+    },
+    "output": { "type": "item", "code": "backpackpackplus:backpacksteel" }
+  }
+]

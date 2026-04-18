@@ -1,0 +1,20 @@
+[
+  {
+    "file": "aldiclasses:itemtypes/wearable/biggerhunterbackpack.json",
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 16
+  },
+  {
+    "file": "aldiclasses:itemtypes/wearable/biggerbackpack.json",
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 20
+  },
+  {
+    "file": "aldiclasses:itemtypes/wearable/biggerbackpack-sturdy.json",
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 26
+  }
+]

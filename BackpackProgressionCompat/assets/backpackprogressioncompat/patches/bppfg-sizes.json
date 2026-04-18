@@ -1,0 +1,26 @@
+[
+  {
+    "file": "backpackpackplus:itemtypes/grassbasket.json",
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 6
+  },
+  {
+    "file": "backpackpackplus:itemtypes/backpackbronze.json",
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 22
+  },
+  {
+    "file": "backpackpackplus:itemtypes/backpackiron.json",
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 28
+  },
+  {
+    "file": "backpackpackplus:itemtypes/backpacksteel.json",
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 36
+  }
+]
